@@ -1,11 +1,11 @@
 # Olá, eu sou o Josias Marciano! 👋
 
 Desenvolvedor Front-end em formação, apaixonado por criar interfaces modernas e funcionais. 
+🚀 **Estou procurando uma oportunidade para Desenvolvedor Front-end Júnior.**
 
-### 🚀 Sobre mim
-- 🎓 Cursando Formação Full Stack JavaScript na **OneBitCode**.
-- * 🎓 Estudante na <a href="https://onebitcode.com/"><img src="https://avatars.githubusercontent.com/u/14856019?s=200&v=4" width="20" height="20" /> **OneBitCode**</a>
-- 💻 Focado em aprender JavaScript, React e tecnologias Web.
+### 👨‍💻 Sobre mim
+- 🎓 Cursando Formação Full Stack JavaScript na <a href="https://onebitcode.com/">**OneBitCode**</a>.
+- 💻 Em constante aprendizado das melhores práticas e novas tecnologias Web.
 - 🎯 Objetivo: Transformar cada linha de código em uma experiência incrível para o usuário.
 
 ### 🖌️ Minhas Skills
