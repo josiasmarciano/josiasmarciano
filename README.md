@@ -1,6 +1,7 @@
 # Olá, eu sou o Josias Marciano! 👋
 
 Desenvolvedor Front-end em formação, apaixonado por criar interfaces modernas e funcionais.
+
 🚀 **Estou procurando uma oportunidade para Desenvolvedor Front-end Júnior.**
 
 ### 👨‍💻 Sobre mim
