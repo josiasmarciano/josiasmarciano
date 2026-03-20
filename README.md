@@ -4,6 +4,7 @@ Desenvolvedor Front-end em formação, apaixonado por criar interfaces modernas 
 
 ### 🚀 Sobre mim
 - 🎓 Cursando Formação Full Stack JavaScript na **OneBitCode**.
+- * 🎓 Estudante na <a href="https://onebitcode.com/"><img src="https://avatars.githubusercontent.com/u/14856019?s=200&v=4" width="20" height="20" /> **OneBitCode**</a>
 - 💻 Focado em aprender JavaScript, React e tecnologias Web.
 - 🎯 Objetivo: Transformar cada linha de código em uma experiência incrível para o usuário.
 
