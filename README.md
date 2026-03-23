@@ -24,9 +24,9 @@ Desenvolvedor Front-end em formação, apaixonado por criar interfaces modernas 
 </p>
 
 ### 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=josiasmarciano&show_icons=true&theme=dark)
-### 🛠️ Linguagens mais utilizadas
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiasmarciano&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" />
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=josiasmarciano&show_icons=true&theme=dark&v=1)
 
+### 🛠️ Linguagens mais utilizadas
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiasmarciano&layout=compact&theme=dark&hide_border=true&v=1" alt="Linguagens mais usadas" />
 ---
 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/josiasmarciano/)
