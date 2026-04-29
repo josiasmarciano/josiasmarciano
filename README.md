@@ -1,17 +1,16 @@
-# Olá, eu sou o Josias Marciano! 👋
+Olá, eu sou o Josias Marciano 👋
 
-💻 Desenvolvedor JavaScript com foco em Front-end e integração com APIs  
-🚀 Utilizando Inteligência Artificial para acelerar desenvolvimento, debugging e otimização de código  
+💻 Desenvolvedor Front-end Júnior focado em JavaScript, criação de interfaces responsivas e integração com APIs REST.
 
----
+🚀 Desenvolvo aplicações web funcionais com foco em usabilidade, organização de código e performance.
 
-## 👨‍💻 Sobre mim
+👨‍💻 Sobre mim
+Experiência prática com HTML, CSS, JavaScript e manipulação de DOM
+Desenvolvimento de aplicações com consumo de APIs
+Organização de código voltada para manutenção e legibilidade
+Em evolução constante na stack front-end
 
-- 🎓 Formação Full Stack JavaScript pela <a href="https://onebitcode.com/">OneBitCode</a> (em andamento)  
-- 🧠 Experiência prática com HTML, CSS, JavaScript e Node.js  
-- 🤖 Aplicação de IA no desenvolvimento para ganho de produtividade e qualidade  
-- 🎯 Foco em construção de interfaces modernas, responsivas e funcionais  
-- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/josiasmarciano/)
+📫 Contato: [LinkedIn](https://www.linkedin.com/in/josiasmarciano/)
 
 ---
 
@@ -19,7 +18,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
   </a>
 </p>
 
@@ -58,17 +57,6 @@ https://github.com/josiasmarciano/visualizador-markdown
 - Debugging assistido por IA  
 - Aumento de produtividade no desenvolvimento  
 
----
-
-## 📚 Atualmente estudando
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,sass,bootstrap,nodejs,express,postgres,prisma" />
-  </a>
-</p>
-
----
 
 ## 📊 Estatísticas
 
